@@ -1,6 +1,6 @@
 <details>
 <summary><h2 style="display: inline;">
-  <img src="https://img.shields.io/badge/Gemini_Special-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" style="vertical-align: middle; margin-right: 10px;" />
   4. Gemini 3.1 flash-lite Bypass Prompt — Tıkla ve Aç
 </h2></summary>
 <br>
