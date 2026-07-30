@@ -13,9 +13,9 @@ Yapay zeka modellerinin sınırlarını zorlamak, prompt mühendisliği üzerine
 Videolarda kullandığım, kopyalamaya hazır promptlara ve teknik analizlere aşağıdaki bağlantılardan ulaşabilirsiniz:
 
 * <img src="https://img.shields.io/badge/DeepSeek-007AFF?style=flat-square&logo=deepseek&logoColor=white" height="20" /> **DeepSeek Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./DeepSeek-Manipülasyon.md).
-* <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" height="20" /> **Claude Manipülasyon Analizi:** [Buraya Tıklayın](./Claude-Manipulasyon.md)
-* <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini Manipülasyon Analizi:** [Buraya Tıklayın](./Gemini-Manipulasyon.md)
-* <img src="https://img.shields.io/badge/Gemini_NanoBanana-F39C12?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini NanoBanana Manipülasyon Analizi:** [Buraya Tıklayın](./Gemini-NanoBanana-Manipulasyon.md)
+* <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" height="20" /> **Claude Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Claude-Manipulasyon.md)
+* <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Gemini-Manipulasyon.md)
+* <img src="https://img.shields.io/badge/Gemini_NanoBanana-F39C12?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini NanoBanana Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Gemini-NanoBanana-Manipulasyon.md)
 
 ---
 
