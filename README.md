@@ -16,7 +16,7 @@ Videolarda kullandığım, kopyalamaya hazır promptlara ve teknik analizlere a�
 * <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" height="20" /> **Claude Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Claude-Manipulasyon.md)
 * <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Gemini-Manipulasyon.md)
 * <img src="https://img.shields.io/badge/Gemini_NanoBanana-F39C12?style=flat-square&logo=googlegemini&logoColor=white" height="20" /> **Gemini NanoBanana Manipülasyon Analizi:** Komutları görmek ve direkt kopyalamak için [Buraya Tıklayın](./Gemini-NanoBanana-Manipulasyon.md)
-
+* * <a href="./Son-Videodaki-Tum-Promptlar.md"><img src="https://img.shields.io/badge/SON_VİDEO_PROMTLARI-Axiom_%7C_TerribleMouse_%7C_Lubv_%7C_Gemini-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="vertical-align: middle; margin-right: 8px;" /></a> **[Tüm Promptları Tek Tıkla Kopyala](./Son-Videodaki-Tum-Promptlar.md)**
 ---
 
 ## 📺 YouTube Kanalı
