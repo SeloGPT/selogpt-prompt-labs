@@ -5,7 +5,7 @@ Bu doküman, YouTube videosunda gösterilen **Qwen 3.7 Max ve alt modelleri** ü
 > ⚠️ **UYARI:** Bu depodaki tüm prompt'lar tamamen siber güvenlik araştırması, red-teaming ve yapay zeka sınırlarını test etme amacıyla paylaşılmıştır. Kötü niyetli kullanımı desteklemez.
 
 ---
-
+# ÖNEMLİ! 🚨: Promptu kullanırken yapay zeka ile ingilizce konuşun ve model olarak 3.7 maxı seçip fast modunu seçin olmuyorsa başka sohbet açıp tekrar deneyin
 <details>
 <summary><h1 style="display: inline;"><img src="https://img.shields.io/badge/Ratman-B22222?style=for-the-badge&logo=checkpoint&logoColor=white" height="30" /> <b>1. Ratman Prompt'u — Tıkla ve Aç</b></h1></summary>
 <br>
